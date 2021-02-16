@@ -6,3 +6,5 @@ adalah kondisi awal saat Activity baru diciptakan, biasanya dilakukan inisialisa
 
 # Method onStop() 
 adalah kondisi saat Activity tidak ditampilkan dilayar (biasanya saat pengguna menekan tombol Home). Ini dapat terjadi, misalnya, ketika aktivitas yang baru diluncurkan menutupi seluruh layar. Sistem juga dapat memanggil onStop() ketika aktivitas telah selesai berjalan, dan akan segera dihentikan.
+
+![Alt Text](https://github.com/inamyrpl28/RelativeLayout/blob/main/RelativeLayout.PNG)
